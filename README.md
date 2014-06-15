@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Account for Data Science Course
+Repository for Data Science Course
